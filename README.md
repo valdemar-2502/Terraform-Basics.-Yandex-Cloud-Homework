@@ -105,6 +105,7 @@ core_fraction=5 (или другое значение, например, 20) п�
 ![terraform](https://github.com/valdemar-2502/Terraform-Basics.-Yandex-Cloud-Homework/blob/main/screenshots/14.png)
 
 ---
+[vms_platform.tf](https://github.com/valdemar-2502/Terraform-Basics.-Yandex-Cloud-Homework/blob/main/vms_platform.tf)
 
 ### Задание 4
 
@@ -119,6 +120,7 @@ core_fraction=5 (или другое значение, например, 20) п�
 ![terraform](https://github.com/valdemar-2502/Terraform-Basics.-Yandex-Cloud-Homework/blob/main/screenshots/16.png)
 
 ---
+[outputs.tf](https://github.com/valdemar-2502/Terraform-Basics.-Yandex-Cloud-Homework/blob/main/outputs.tf)
 
 ### Задание 5
 
@@ -131,6 +133,7 @@ core_fraction=5 (или другое значение, например, 20) п�
 ![terraform](https://github.com/valdemar-2502/Terraform-Basics.-Yandex-Cloud-Homework/blob/main/screenshots/17.png)
 
 ---
+[locals.tf](https://github.com/valdemar-2502/Terraform-Basics.-Yandex-Cloud-Homework/blob/main/locals.tf)
 
 ### Задание 6
 
