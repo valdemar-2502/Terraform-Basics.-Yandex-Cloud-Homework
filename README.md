@@ -93,7 +93,7 @@ core_fraction=5 (или другое значение, например, 20) п�
 ![terraform](https://github.com/valdemar-2502/Terraform-Basics.-Yandex-Cloud-Homework/blob/main/screenshots/12.png)
 
 ---
-
+[main.tf](https://github.com/valdemar-2502/Terraform-Basics.-Yandex-Cloud-Homework/blob/main/main.tf)
 ### Задание 3
 
 1. Создайте в корне проекта файл 'vms_platform.tf' . Перенесите в него все переменные первой ВМ.
